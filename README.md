@@ -1,5 +1,4 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-<p><img align="right" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="divyasp25" />github</p>
+<p><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="divyasp25" /></p>
 
 <h1 align="center">🐥 Hi there!</h1>
 
