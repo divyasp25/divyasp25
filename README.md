@@ -1,4 +1,4 @@
-<p><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="divyasp25" /></p>
+<p><img align="top" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="divyasp25" /></p>
 
 <h1 align="center">🐥 Hi there!</h1>
 
