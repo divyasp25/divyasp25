@@ -1,6 +1,6 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-##🐥 Hi there!
+<h1 align="center">🐥 Hi there!</h1>
 
 - 🍂 I am Divya, I'm a data science enthusiast with a background in BE (Bachelor of Engineering) in Data Science. I have a strong passion for technology and love to dive deep into research. When I'm not exploring the world of data, you can find me writing, reading, or working on various tech-related projects.
 - 🔭 I’m currently working on exploring the power of data science in solving real-world problems and building interesting data-driven applications.
