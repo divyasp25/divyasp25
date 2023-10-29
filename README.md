@@ -36,4 +36,5 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
 
 ## My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?divyasp25=divyasp25)](https://github.com/divyasp25)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasp25)](https://github.com/divyasp25)
+
