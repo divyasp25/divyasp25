@@ -1,4 +1,8 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<div align="center">
+ <h1><img src="![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)"></h1>
+</div>
+
 ### Hi there 👋 
 - 🍂 I am Divya, I'm a data science enthusiast with a background in BE (Bachelor of Engineering) in Data Science. I have a strong passion for technology and love to dive deep into research. When I'm not exploring the world of data, you can find me writing, reading, or working on various tech-related projects.
 - 🔭 I’m currently working on exploring the power of data science in solving real-world problems and building interesting data-driven applications.
@@ -9,4 +13,4 @@
 - ⚡ Fun fact: I'm not only a data enthusiast but also an author, and I enjoy blending creativity with technology in my work.
 Thanks for stopping by, and let's connect and collaborate on some exciting projects! 💻📚🎨
 
-![Divya's github stats](https://github-readme-stats.vercel.app/api?username=divyasp25&count_private=true&show_icons=true&theme=default)
+
