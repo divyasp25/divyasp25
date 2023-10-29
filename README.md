@@ -8,3 +8,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm not only a data enthusiast but also an author, and I enjoy blending creativity with technology in my work.
 Thanks for stopping by, and let's connect and collaborate on some exciting projects! 💻📚🎨
+
+![Divya's github stats](https://github-readme-stats.vercel.app/api?username=divyasp25&count_private=true&show_icons=true&theme=default)
