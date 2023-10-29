@@ -11,7 +11,7 @@
 Thanks for stopping by, and let's connect and collaborate on some exciting projects! 💻📚🎨
 <br>
 <div align="center">
-![Gif 1](https://github.com/divyasp25/gg/blob/main/gify.gif)
+ <img align="center" src="https://github.com/divyasp25/gg/blob/main/gify.gif"/>
 </div>
 </br>
 <br>
