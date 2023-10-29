@@ -44,5 +44,5 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
 ## My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasp25)](https://github.com/divyasp25)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasp25&show_icons=true&locale=en&layout=compact" alt="divyasp25" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasp25&show_icons=true&locale=en&layout=compact" alt="divyasp25" />
 
