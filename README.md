@@ -9,7 +9,11 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm not only a data enthusiast but also an author, and I enjoy blending creativity with technology in my work.
 Thanks for stopping by, and let's connect and collaborate on some exciting projects! 💻📚🎨
+<br>
+<div align="center">
 ![Gif 1](https://github.com/divyasp25/gg/blob/main/gify.gif)
+</div>
+</br>
 <br>
 <div align="center">
  <a href="https://www.linkedin.com/in/divya-s-p-a428a3214" target="_blank">
