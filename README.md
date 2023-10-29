@@ -11,7 +11,7 @@
 Thanks for stopping by, and let's connect and collaborate on some exciting projects! 💻📚🎨
 <br>
 <div align="center">
- <img align="center" width=100% height=100px src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
+ <img align="center" width=100% height=500px src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
 </div>
 </br>
 <br>
