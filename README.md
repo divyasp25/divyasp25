@@ -30,8 +30,8 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
     <img align="center" alt="Divya's Profile" width="41px" src="https://iconape.com/wp-content/files/bo/348599/png/devpost-logo.png" />
   </a>
  </div>
+<br>   
 
-<br>                          
 ### Frequently Used Languages and Tools 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
@@ -40,7 +40,7 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-## My GitHub Stats
+### My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasp25)](https://github.com/divyasp25)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasp25&show_icons=true&locale=en&layout=compact" alt="divyasp25" />
