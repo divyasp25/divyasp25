@@ -32,8 +32,6 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
  </div>
 
 <br>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="divya-s-p-a428a3214" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/divya-s-p-a428a3214?trk=profile-badge">Divya S P</a></div>
               
 
