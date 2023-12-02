@@ -1,3 +1,8 @@
+<html>
+ <head>
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  </head>
+ <body>
 <div align="center">
  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="divyasp25" />
 </div>
@@ -33,8 +38,7 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
 
 <br>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="divya-s-p-a428a3214" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/divya-s-p-a428a3214?trk=profile-badge">Divya S P</a></div>
-              
-
+                           
 ### Frequently Used Languages and Tools 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
@@ -47,4 +51,5 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasp25)](https://github.com/divyasp25)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasp25&show_icons=true&locale=en&layout=compact" alt="divyasp25" />
-
+</body>
+</html>
