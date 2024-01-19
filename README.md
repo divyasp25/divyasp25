@@ -2,9 +2,10 @@
  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="divyasp25" />
 </div>
 
-<h1 align="center">🐥 Hi there!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&center=true&vCenter=true&size=20&width=800&height=60&lines=Hey+there%2C+I'm+Divya%21+Welcome+to+my+Profile.&color=98A6AD&background=2E2728&vPad=10&lineHeight=1.5&startDelay=1000&speed=100&postWriteDelay=1000&glow=2&cursorWidth=8&cursorColor=98A6AD&hideCursor=false&fontSize=10)](https://git.io/typing-svg)
 
-- 🍂 I am **Divya**, I'm a data science enthusiast with a background in BE (Bachelor of Engineering) in **Data Science**. I have a strong passion for technology and love to dive deep into research. When I'm not exploring the world of data, you can find me writing, reading, or working on various tech-related projects.
+
+- 🍂 I'm a data science enthusiast with a background in BE (Bachelor of Engineering) in **Data Science**. I have a strong passion for technology and love to dive deep into research. When I'm not exploring the world of data, you can find me writing, reading, or working on various tech-related projects.
 - 🔭 I’m currently working on exploring the power of data science in solving real-world problems and building interesting data-driven applications.
 - 🌱 I’m always striving to expand my knowledge in web development, with a focus on HTML and CSS. I'm also honing my Python skills and love creating visually appealing content using Canva.
 - 👯 I’m looking to collaborate on exciting data science projects, web development endeavors, and any creative ventures that involve writing and design.
@@ -40,9 +41,14 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+
+ 
 ### My GitHub Stats
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=divyasp25&theme=dark&background=000000" alt="GitHub Streak" />
+</p>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasp25)](https://github.com/divyasp25)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasp25&show_icons=true&locale=en&layout=compact" alt="divyasp25" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasp25&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="divyasp25" />
 </body>
 </html>
