@@ -15,7 +15,7 @@
 Thanks for stopping by, and let's connect and collaborate on some exciting projects! 💻📚🎨
 <br>
 <div align="center">
- <img align="center" width=100% height=300px src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
+ <img align="center" width=1000% height=500px src="https://media.giphy.com/media/l4JyNNqiVzBMbDOVO/giphy.gif"/>
 </div>
 </br>
 <br>
@@ -47,8 +47,7 @@ Thanks for stopping by, and let's connect and collaborate on some exciting proje
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=divyasp25&theme=dark&background=000000" alt="GitHub Streak" />
 </p>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasp25)](https://github.com/divyasp25)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyasp25&show_icons=true&theme=gotham" alt="divyasp25" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasp25&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="divyasp25" />
 </body>
 </html>
