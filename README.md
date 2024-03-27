@@ -2,7 +2,7 @@
  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="divyasp25" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&center=true&vCenter=true&size=15&width=1000&height=40&lines=Hey+there%2C+I'm+Divya%21+Welcome+to+my+Profile.&color=98A6AD&background=2E2728&vPad=10&lineHeight=1.5&startDelay=1000&speed=100&postWriteDelay=1000&glow=2&cursorWidth=8&cursorColor=98A6AD&hideCursor=false&fontSize=10)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&center=true&vCenter=true&size=15&width=1000&height=40&lines=Hey+there%2C+I'm+Divya%21+Welcome+to+my+Profile.&color=98A6AD&background=070443&vPad=10&lineHeight=1.5&startDelay=1000&speed=100&postWriteDelay=1000&glow=2&cursorWidth=8&cursorColor=98A6AD&hideCursor=false&fontSize=10)](https://git.io/typing-svg)
 
 
 - 🍂 I'm a data science enthusiast with a background in BE (Bachelor of Engineering) in **Data Science**. I have a strong passion for technology and love to dive deep into research. When I'm not exploring the world of data, you can find me writing, reading, or working on various tech-related projects.
@@ -15,7 +15,7 @@
 Thanks for stopping by, and let's connect and collaborate on some exciting projects! 💻📚🎨
 <br>
 <div align="center">
- <img align="center" width=1000% height=500px src="https://media.giphy.com/media/l4JyNNqiVzBMbDOVO/giphy.gif"/>
+ <img align="center" width=1000% height=500px src="https://github.com/divyasp25/divyasp25/blob/main/mygif.gif"/>
 </div>
 </br>
 <br>
